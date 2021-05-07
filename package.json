@@ -1,0 +1,25 @@
+{
+  "name": "api-aufgabe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menjazovutlars/api-aufgabe.git"
+  },
+  "author": "menjazowutlars",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/menjazovutlars/api-aufgabe/issues"
+  },
+  "homepage": "https://github.com/menjazovutlars/api-aufgabe#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.0",
+    "node-fetch": "^2.6.1",
+    "node-schedule": "^2.0.0"
+  }
+}
